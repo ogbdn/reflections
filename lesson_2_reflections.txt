@@ -5,3 +5,15 @@ Resp: Um diretório chamado .git será criado ocultamente. O .git irá guardar o
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 
 Resp: A área de preparação contem os arquivos que entrarão no repositório. O repositório contém os commits. Oferece flexibilidade em permitir escolher um ou mais arquivos a ser escolhidos para ser o primeiro commit.
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Resp: Enviar o para área de preparação apenas o que quero que vire commit.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Resp: Criando caminhos alternativos para o produto final
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Resp: A forma grafica facilita a visualizacao dos parentes de cada commit e em qual branch ele pertence.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+Resp: O resultado é um único branch com a união dos dois branches. Representamos para manter todos os commits.
