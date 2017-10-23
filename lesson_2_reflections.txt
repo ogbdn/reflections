@@ -17,3 +17,9 @@ Resp: A forma grafica facilita a visualizacao dos parentes de cada commit e em q
 
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
 Resp: O resultado é um único branch com a união dos dois branches. Representamos para manter todos os commits.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+Resp: Bugs X códigos precisos.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Resp: Saber se devemos atualizar no github ou não.
